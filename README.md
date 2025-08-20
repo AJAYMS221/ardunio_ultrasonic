@@ -10,3 +10,5 @@ Common Module: HC-SR04
 Range: 2 cm – 400 cm
 
 Accuracy: ±3 mm
+
+ultrasonic: ![hc-sr04-ultrasonic-sensor-500x500 (1)](https://github.com/user-attachments/assets/35f3aee4-2aed-435d-b8c0-df9700c6d85e)
